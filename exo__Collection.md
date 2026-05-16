@@ -1,0 +1,12 @@
+---
+exo__Asset_isDefinedBy: "[[ca97bb2f-99bd-4ceb-b51e-c386b9231ae3]]"
+exo__Asset_uid: e2294a18-6d80-4194-94ed-40067e56b3cf
+exo__Asset_createdAt: 2025-07-15T15:12:19
+exo__Instance_class:
+  - "[[exo__Class]]"
+exo__Class_description: Коллекция ассетов
+exo__Class_superClass:
+  - "[[exo__Asset]]"
+---
+
+

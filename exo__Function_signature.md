@@ -1,0 +1,9 @@
+---
+exo__Asset_isDefinedBy: "[[ca97bb2f-99bd-4ceb-b51e-c386b9231ae3]]"
+exo__Asset_uid: 8b7cc58c-ab17-4410-90bf-6eb51a8af59f
+exo__Asset_createdAt: 2025-11-13T18:43:59
+exo__Instance_class:
+  - "[[9a1cf31c-9d41-4ef3-9023-584a8d087d16|exo__ObjectProperty]]"
+exo__Property_domain: "[[exo__Function]]"
+exo__Property_range: "[[exo__FunctionSignature]]"
+---

@@ -1,0 +1,11 @@
+---
+exo__Asset_isDefinedBy: "[[ca97bb2f-99bd-4ceb-b51e-c386b9231ae3]]"
+exo__Asset_uid: 59a37aa7-ffbe-4e0d-ba60-06ae370d880f
+exo__Asset_createdAt: 2025-09-03T18:58:39
+exo__Instance_class:
+  - "[[exo__PropertyCardinality]]"
+exo__Asset_relates:
+  - "[[8c55886f-09f9-4c44-bf50-8b8edc08b79a|MultipleCardinality]]"
+---
+
+

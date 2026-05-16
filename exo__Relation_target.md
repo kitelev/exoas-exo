@@ -1,0 +1,10 @@
+---
+exo__Asset_isDefinedBy: "[[ca97bb2f-99bd-4ceb-b51e-c386b9231ae3]]"
+exo__Asset_uid: 5a990f4c-9156-4836-b11e-d77c379634d1
+exo__Asset_createdAt: 2025-07-01T22:22:25
+exo__Instance_class:
+  - "[[9a1cf31c-9d41-4ef3-9023-584a8d087d16|exo__ObjectProperty]]"
+exo__Property_superProperty: "[[rdfs__range]]"
+exo__Property_domain: "[[1f5889ce-d3b7-4ded-a7bf-140628e13cc9|Asset (EXO)]]"
+exo__Property_range: "[[1f5889ce-d3b7-4ded-a7bf-140628e13cc9|Asset (EXO)]]"
+---
