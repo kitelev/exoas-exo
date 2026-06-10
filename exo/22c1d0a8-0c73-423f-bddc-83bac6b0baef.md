@@ -1,0 +1,13 @@
+---
+exo__Asset_isDefinedBy: "[[ca97bb2f-99bd-4ceb-b51e-c386b9231ae3]]"
+exo__Asset_uid: 22c1d0a8-0c73-423f-bddc-83bac6b0baef
+exo__Asset_createdAt: 2026-06-10T17:58:00
+exo__Asset_createdBy: "[[de20a3f1-7483-4714-ab28-b45f5cf02c76]]"
+exo__Instance_class:
+  - "[[a37d39ec-413d-4d9c-8cf2-da9b6025b00c]]"
+exo__Asset_label: exo__SettingKeyShowTimeEstimate
+exo__SettingKey_datatype: boolean
+exo__Asset_description: "Ключ настройки 'showTimeEstimate' (boolean, default false) — показывать оценку времени эффорта в layout-таблицах. Per onto-RFC 981b6070."
+aliases:
+  - exo__SettingKeyShowTimeEstimate
+---
