@@ -7,6 +7,7 @@ exo__Instance_class:
   - "[[ae56ca4c-b610-42a4-a25d-058c23673296]]"
 exo__Property_domain: "[[07eab746-0874-4676-9d98-dbaad1bc6fb8]]"
 exo__Asset_label: exo__DisplayNameSpec_matchHostFunction
+exo__Slugable_slug: "DisplayNameSpec_matchHostFunction"
 aliases:
   - exo__DisplayNameSpec_matchHostFunction
 exo__Property_displayName: match host function

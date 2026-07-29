@@ -9,6 +9,7 @@ exo__Instance_class:
 exo__Property_domain: "[[493c2ae2-de56-47ec-954d-2eb8cb49bff7]]"
 exo__Property_description: "Obsidian-native aliases list. Multi-valued literal strings. Cardinality 0..N. Formally declared as exo__DatatypeProperty so PropertyDefault references can target it via SHACL-valid wikilink (range exo__Property)."
 exo__Asset_label: aliases
+exo__Slugable_slug: "aliases"
 aliases:
   - aliases
 exo__Property_displayName: aliases
