@@ -3,7 +3,7 @@ exo__Asset_isDefinedBy: "[[ca97bb2f-99bd-4ceb-b51e-c386b9231ae3]]"
 exo__Asset_uid: abdb56bc-c1a1-4b95-978a-e9e2ea1c57dc
 exo__Asset_createdAt: 2026-05-25T01:15:00
 exo__Asset_updatedAt: 2026-05-25T01:15:00
-exo__Asset_createdBy: "[[de20a3f1-7483-4714-ab28-b45f5cf02c76]]"
+exo__Asset_createdBy: "[[4ef3962d-b8a7-42b5-bd28-88ec846f1d13]]"
 exo__Instance_class:
   - "[[ae56ca4c-b610-42a4-a25d-058c23673296]]"
 exo__Property_domain: "[[493c2ae2-de56-47ec-954d-2eb8cb49bff7]]"
