@@ -10,4 +10,4 @@ exo__DisplayNameSpec_priority: 100
 exo__Asset_label: "displayName spec — ems__MeetingPrototype suffix"
 ---
 
-Default displayName spec for ems__MeetingPrototype (real class 7ab483c7). Renders `<label> (MeetingPrototype)` via ordered parts: PrintedProperty(exo__Asset_label) order 1 + PrintedLiteral(" (MeetingPrototype)") order 2. Homoiconic replacement for the TS classTemplates hardcode (cold-start seed kept in code). RFC 92b91345, req b4ee3caa.
+Default displayName spec for ems__MeetingPrototype (real class 7ab483c7). Renders `🧩👥 <label> (MeetingPrototype)` via ordered parts: PrintedLiteral("🧩👥 ") order 0 + PrintedProperty(exo__Asset_label) order 1 + PrintedLiteral(" (MeetingPrototype)") order 2. Совмещённая иконка типа: 🧩 (прототип) + иконка прототипируемого класса (👥 = ems__Meeting). Homoiconic replacement for the TS classTemplates hardcode (cold-start seed kept in code). RFC 92b91345, req b4ee3caa.
